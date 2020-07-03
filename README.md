@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Built a couple of models in Python that identifies and predicts fraudulent credit card transactions. 
+Built logistic regression, Naive Bayes, and Decision Tree classification models.
 
 Data from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
